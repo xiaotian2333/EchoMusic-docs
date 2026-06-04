@@ -38,7 +38,7 @@ features:
 
 - Visit the [GitHub repository](https://github.com/hoowhoami/EchoMusic) to report issues or contribute code
 - Join the user community for help
-  - QQ: 1036693403 [Join](https://qm.qq.com/q/8Dq6fkSN4A)
+  - QQ:[1036693403](https://qm.qq.com/q/8Dq6fkSN4A)
 
 <style scoped>
 #star-canvas {

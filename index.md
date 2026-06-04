@@ -38,7 +38,7 @@ features:
 
 - 访问[GitHub仓库](https://github.com/hoowhoami/EchoMusic)提交问题或贡献代码
 - 加入用户交流群获取帮助
-  - QQ：1036693403 [进群](https://qm.qq.com/q/8Dq6fkSN4A)
+  - QQ：[1036693403](https://qm.qq.com/q/8Dq6fkSN4A)
 
 <style scoped>
 #star-canvas {

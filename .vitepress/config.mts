@@ -209,7 +209,7 @@ export default defineConfig({
     }
   },
   head: [
-    ['link', { rel: 'icon', href: '/icon.png' }]
+    ['link', { rel: 'icon', href: '/icon.ico' }]
   ],
   themeConfig: {
     search: {
